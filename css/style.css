@@ -165,7 +165,7 @@ li:last-child {
 .about-me__contacts-item--birthday::before {
   position: absolute;
   content: "";
-  background-image: url(/img/birthday.png);
+  background-image: url(../img/birthday.png);
   width: 32px;
   height: 32px;
   left: -40px;
@@ -175,7 +175,7 @@ li:last-child {
 .about-me__contacts-item--mail::before {
   position: absolute;
   content: "";
-  background-image: url(/img/mail.png);
+  background-image: url(../img/mail.png);
   width: 32px;
   height: 32px;
   left: -40px;
@@ -185,7 +185,7 @@ li:last-child {
 .about-me__contacts-item--phone::before {
   position: absolute;
   content: "";
-  background-image: url(/img/phone.png);
+  background-image: url(../img/phone.png);
   width: 32px;
   height: 32px;
   left: -40px;
@@ -195,7 +195,7 @@ li:last-child {
 .about-me__contacts-item--adres::before {
   position: absolute;
   content: "";
-  background-image: url(/img/home.png);
+  background-image: url(../img/home.png);
   width: 32px;
   height: 32px;
   left: -40px;
