@@ -243,6 +243,7 @@ li:last-child {
 }
 
 .education__item {
+  text-align: center;
   margin-bottom: 40px;
   padding: 20px;
   border-radius: 10px;
@@ -279,6 +280,12 @@ li:last-child {
   box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%);
 }
 
+.work-experience__period--freelance{
+  background-color: #94e39f;
+  color: black;
+}
+
+
 .work-experience__list {
   margin-bottom: 15px;
 }
@@ -296,7 +303,7 @@ li:last-child {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url(/img/li.png);
+  background-image: url(../img/li.png);
 }
 
 .education__period {
@@ -431,6 +438,11 @@ li:last-child {
 
   .education__period {
     left: 105px;
+  }
+
+
+  .hobbies__images{
+    width: 350px;
   }
 }
 
